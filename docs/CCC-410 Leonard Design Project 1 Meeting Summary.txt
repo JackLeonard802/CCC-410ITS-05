@@ -1,0 +1,12 @@
+﻿Jack Leonard
+
+
+Design Project 1 Meeting Summary
+
+
+        On Wednesday I met with Joe to discuss the progress and direction that my capstone project is taking. We discussed a number of topics such as what goals are reasonably achievable for this project, as well as which goals should be sidelined for the time being as I focus on other tasks. For example, we discussed that at this time there is no need to finalize a list of IoT devices that I will be using for this project. We also discussed the demo that I would undertake for design project 1, and came to the agreement that a 15 minute Wireshark capture of an IoT device would be a good start to demonstrate the feasibility of this project. We also discussed the opportunities and tools that the Leahy center could provide, and discussed setting up a meeting with Joe Williams. 
+
+
+On Thursday I met with Joe Williams to go over my options and opportunities. While I will unfortunately be unable to use my pre established time at the lahey center to work on this project, Joe made it clear that any tools and techniques that are utilized by the lady center will be at my disposal. I plan to keep in contact with Joe over the next couple weeks and as I progress in this project to determine exactly which aspects of my project can be assisted by the Leahy centers IoT team.
+During our meeting on Wednesday, we also talked about pivoting the direction of my project and refining the scope. One thought that has come to mind since is exploiting a vulnerability that I may find for the purposes of demonstrating the risk of using these devices. I think this would be an interesting direction for my project to take, however the possibility of doing this is highly dependent on the presence of vulnerabilities. if the devices I analyze do not present any vulnerabilities that would be feasible to exploit during this project, then I would be unable to take this direction at all.
+Overall, this meeting has provided me with a greater sense of scope and direction for my capstone project, and I will be thinking carefully over the coming weeks about the possible directions this project can take.
